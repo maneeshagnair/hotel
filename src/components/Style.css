@@ -1,0 +1,75 @@
+.navbar{
+    background-color: azure;
+    color: black;
+}
+.navbar-brand img{
+    width:60px;
+   
+}
+.icon {
+    margin-left: 800px;
+}
+.fa {
+    font-size: 25px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 5px;
+  }
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+.image{
+    z-index: -1;
+   
+}
+.welcome{
+    text-align: center;
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:darkslateblue;
+  font-size: 70px;
+
+}
+.container{
+    margin: 5px;
+}
+.card{
+    width: 400px;
+    float: left;
+    margin-top: 10px;
+    margin: 20px;
+  
+    
+}
+.card img{
+    width: 100%;
+    height: 400px;
+}
+.cd{
+    margin-top: 100px;
+}
+.card-body{
+    text-align: center;
+    font-size: 40px;
+}
+.res{
+    margin-top: 100px;
+}
+h1{
+   color: blueviolet;
+}
+
+  
